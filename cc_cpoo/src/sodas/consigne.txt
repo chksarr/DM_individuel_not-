@@ -1,0 +1,11 @@
+Consignes:
+Ce travail doit être rendu de préférence AVANT le 18 décembre 2023, dans tous les cas avant 
+le 24 décembre 2023, et compte pour le contrôle continu.
+
+Le travail doit être réalisé individuellement. Des résultats trop similaires entre 
+plusieurs étudiants seront considérés comme frauduleux et seront évalués avec une note de 
+0 pour chacun de ces étudiants (copieurs et copiés).
+
+Les résultats doivent être rendus dans une archive au nom de l'étudiant qui 
+contient EXCLUSIVEMENT le code SOURCE Java 8 des classes que vous avez créées, sans 
+les classes de test et sans la documentation javadoc générée.
